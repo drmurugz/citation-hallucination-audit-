@@ -1,1 +1,16 @@
-
+domain,jurisdiction,total_citations,fabricated_n,fabricated_pct,misrepresented_n,misrepresented_pct,accurate_n,accurate_pct
+Criminal Law,United States,196,62,31.6,26,13.3,108,55.1
+Criminal Law,United Kingdom,193,74,38.3,24,12.4,95,49.2
+Criminal Law,India,189,86,45.5,25,13.2,78,41.3
+Contract Law,United States,192,74,38.5,22,11.5,96,50.0
+Contract Law,United Kingdom,187,80,42.8,21,11.2,86,46.0
+Contract Law,India,182,84,46.2,21,11.5,77,42.3
+Intellectual Property,United States,198,88,44.4,20,10.1,90,45.5
+Intellectual Property,United Kingdom,191,97,50.8,20,10.5,74,38.7
+Intellectual Property,India,185,100,54.1,21,11.4,64,34.6
+Constitutional Law,United States,196,74,37.8,24,12.2,98,50.0
+Constitutional Law,United Kingdom,187,76,40.6,23,12.3,88,47.1
+Constitutional Law,India,179,76,42.5,22,12.3,81,45.3
+Data Protection,United States,196,73,37.2,30,15.3,93,47.4
+Data Protection,United Kingdom,176,86,48.9,38,21.6,52,29.5
+Data Protection,India,180,105,58.3,40,22.2,35,19.4
